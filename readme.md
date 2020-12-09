@@ -1,5 +1,5 @@
 
-## Hello there!, I am Abhishek Soni Jha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there!, I am Abhishek Soni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### I am a B.Tech CSE student from Vellore Institute of Technology,Chennai and an enthusiast in Web Development and Cyber Security.
 
