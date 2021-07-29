@@ -10,9 +10,6 @@
 <!--[<img align="left" alt="neeleshrj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="neeleshrj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
-<br />
-<br />
-
 
 <br />
 <br />
@@ -20,9 +17,6 @@
 ## Somethings about me:
 - 🔭 I’m currently working on a Job assignment application for GRP .
 - 🌱 I’m currently learning Backend Development .
-
-
-
 
 [instagram]: https://www.instagram.com/neeleshrjha/
 [linkedin]: https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3
