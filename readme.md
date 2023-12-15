@@ -15,8 +15,7 @@
 <br />
 
 ## Somethings about me:
-- 🔭 I’m currently working on a Job assignment application for GRP .
-- 🌱 I’m currently learning Backend Development .
+- 🌱 I’m currently working as a Backend Developer .
 
 [instagram]: https://www.instagram.com/neeleshrjha/
 [linkedin]: https://www.linkedin.com/in/neelesh-ranjan-jha-ab84071a3
